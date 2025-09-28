@@ -1,8 +1,5 @@
 @charset "UTF-8";
 /*!
- * Color Admin v5.5.1 (https://seantheme.com/color-admin/)
- * Copyright 2025 SeanTheme
- *//*!
  * Bootstrap  v5.3.5 (https://getbootstrap.com/)
  * Copyright 2011-2025 The Bootstrap Authors
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
@@ -151,6 +148,7 @@
     --bs-box-shadow-sm: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
     --bs-box-shadow-lg: 0 1rem 3rem rgba(0, 0, 0, 0.175);
     --bs-box-shadow-inset: inset 0 1px 2px rgba(0, 0, 0, 0.075);
+    --bs-box-shadow-theme: 0 .5rem 1rem rgba(var(--bs-app-theme-rgb), .6);
     --bs-focus-ring-width: 0.25rem;
     --bs-focus-ring-opacity: 0.25;
     --bs-focus-ring-color: rgba(0, 122, 255, 0.25);
@@ -218,6 +216,7 @@
     --bs-box-shadow-sm: 0 0.125rem 0.25rem rgba(255, 255, 255, 0.075);
     --bs-box-shadow-lg: 0 1rem 3rem rgba(255, 255, 255, 0.175);
     --bs-box-shadow-inset: inset 0 1px 2px rgba(255, 255, 255, 0.075);
+    --bs-box-shadow-theme: 0 .5rem 1rem rgba(var(--bs-app-theme-rgb), .6);
 }
 
 *, ::after, ::before {
@@ -10141,6 +10140,10 @@ textarea.form-control-lg {
     box-shadow: none !important
 }
 
+.shadow-theme {
+    box-shadow: var(--bs-box-shadow-theme) !important;
+}
+
 .focus-ring-default {
     --bs-focus-ring-color: rgba(var(--bs-default-rgb), var(--bs-focus-ring-opacity))
 }
@@ -18122,7 +18125,7 @@ textarea.form-control-lg {
     --bs-app-header-divider-bg: lightgray;
     --bs-app-sidebar-bg: #FFFFFF;
     --bs-app-sidebar-bg-rgb: 255, 255, 255;
-    --bs-app-sidebar-bg-transparent: url(images/cover-sidebar.jpg);
+    --bs-app-sidebar-bg-transparent: url(/assets/img/images/bannerSidebar.png);
     --bs-app-sidebar-component-color: #222222;
     --bs-app-sidebar-component-color-rgb: 34, 34, 34;
     --bs-app-sidebar-component-active-bg: #efefef;
@@ -18172,7 +18175,7 @@ textarea.form-control-lg {
     --bs-app-top-menu-control-link-color: rgba(34, 34, 34, 0.6);
     --bs-app-top-menu-control-link-hover-bg: #FFFFFF;
     --bs-app-top-menu-control-link-hover-color: #222222;
-    --bs-app-login-bg-cover: url(images/bg-login.png);
+    --bs-app-login-bg-cover: url(/assets/img/images/spartan.jpg);
     --bs-component-bg: #FFFFFF;
     --bs-component-bg-rgb: 255, 255, 255;
     --bs-component-secondary-bg: lightgray;
@@ -18383,7 +18386,7 @@ textarea.form-control-lg {
     --bs-app-top-menu-control-link-color: rgba(255, 255, 255, 0.6);
     --bs-app-top-menu-control-link-hover-bg: #2e2e2e;
     --bs-app-top-menu-control-link-hover-color: #FFFFFF;
-    --bs-app-login-bg-cover: url(images/bg-login-dark-mode.png);
+    --bs-app-login-bg-cover: url(/assets/img/images/placabase.jpg);
     --bs-component-bg: #000000;
     --bs-component-bg-rgb: 0, 0, 0;
     --bs-component-secondary-bg: #595959;
@@ -19114,7 +19117,7 @@ a:focus {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url(/assets/img/images/covertop.png);
+    background-image: url(/assets/img/images/placabase.jpg);
     background-repeat: no-repeat;
     background-size: cover
 }
@@ -19426,12 +19429,12 @@ a:focus {
 }
 
 .app-sidebar.app-sidebar-transparent {
-    background: 0 0
+    background: 0 0;
 }
 
 .app-sidebar.app-sidebar-transparent + .app-sidebar-bg {
     background-image: var(--bs-app-sidebar-bg-transparent);
-    background-size: cover
+    background-size: cover;
 }
 
 .app-sidebar.app-sidebar-transparent + .app-sidebar-bg:before {
@@ -19441,7 +19444,8 @@ a:focus {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(var(--bs-app-sidebar-bg-rgb), .75)
+    background: rgba(var(--bs-app-sidebar-bg-rgb), .68);
+    border-radius: 10px;
 }
 
 .app-sidebar.app-sidebar-transparent .menu > .menu-item.active > .menu-link {
@@ -20119,7 +20123,9 @@ a:focus {
     max-width: 1280px;
     width: 100%;
     left: 50%;
-    margin-left: -640px
+    margin-left: -640px;
+    top: 55px;
+    border-radius: 8px;
 }
 
 @media (min-width: 768px) {
@@ -20176,7 +20182,8 @@ a:focus {
 @media (min-width: 768px) {
     .boxed-layout .app-sidebar, .boxed-layout .app-sidebar-bg {
         left: auto;
-        right: auto
+        right: auto;
+        top: 97px;
     }
 }
 
@@ -20533,7 +20540,7 @@ a:focus {
 
 @media (min-width: 768px) {
     .app-with-top-menu .app-sidebar {
-        padding-top: 90px
+        padding-top: 5pxs
     }
 }
 
@@ -24348,7 +24355,7 @@ a:focus {
 }
 
 .coming-soon .coming-soon-header {
-    background: url(images/coming-soon.jpg);
+    background: url(/assets/img/images/placabase.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 100px 50px 50px;
@@ -25188,7 +25195,8 @@ a:focus {
 
 .login.login-v1 .login-container .login-body {
     padding: 30px;
-    background: #383838
+    /*margin: 0 100px;*/
+    background: #0000009c;
 }
 
 @media (max-width: 767.98px) {
@@ -26379,7 +26387,7 @@ a:focus {
 }
 
 .pos {
-    --bs-pos-sidebar-bg: #FFFFFF;
+    --bs-pos-sidebar-bg: #ffffff;
     --bs-pos-sidebar-header-bg: #383838;
     --bs-pos-sidebar-header-color: #FFFFFF;
     --bs-pos-sidebar-header-back-btn-bg: #595959;
@@ -26387,15 +26395,15 @@ a:focus {
     --bs-pos-sidebar-header-nav-link-color: #7a7a7a;
     --bs-pos-sidebar-header-nav-link-active-bg: #FFFFFF;
     --bs-pos-sidebar-header-nav-link-active-color: #222222;
-    --bs-pos-sidebar-footer-bg: #595959;
+    --bs-pos-sidebar-footer-bg: #000000;
     --bs-pos-sidebar-footer-color: #f4f4f4;
     --bs-pos-sidebar-product-border-color: #e9e9e9;
-    --bs-pos-sidebar-product-confirmation-bg: rgba(255, 255, 255, 0.95)
+    --bs-pos-sidebar-product-confirmation-bg: rgba(25, 25, 25, 0.73)
 }
 
 @media (min-width: 992px) {
     .pos.pos-with-menu {
-        padding-left: 10rem
+        padding-left: 10rem;
     }
 }
 
@@ -26423,19 +26431,32 @@ a:focus {
 
 @media (min-width: 992px) {
     .pos.pos-with-header.pos-with-sidebar .pos-sidebar {
-        top: 50px;
-        height: calc(100% - 50px);
+        top: 62px;
+        right: 5px;
+        height: calc(100% - 68px);
         margin: 0;
-        border-radius: 0;
-        border-top: none;
+        border-radius: 10px;
+        border: 0.5px solid rgba(var(--bs-app-theme-rgb), .3);
+        /* border-top: none;
         border-bottom: none;
-        border-right: none
+        border-right: none */
     }
 }
 
-.pos.pos-with-header.pos-with-sidebar .pos-sidebar .pos-sidebar-footer, .pos.pos-with-header.pos-with-sidebar .pos-sidebar .pos-sidebar-header {
-    border-radius: 0
+@media (min-width: 992px) {
+    .pos.pos-with-header.pos-with-sidebar .pos-menu {
+        top: 62px;
+        left: 5px;
+        bottom: 10px;
+        border-radius: 10px;
+        background: var(--bs-pos-sidebar-bg);
+        /* padding-left: 0; */
+    }
 }
+
+/* .pos.pos-with-header.pos-with-sidebar .pos-sidebar .pos-sidebar-footer, .pos.pos-with-header.pos-with-sidebar .pos-sidebar .pos-sidebar-header {
+    border-radius: 0
+} */
 
 @media (min-width: 992px) {
     .pos {
@@ -26455,9 +26476,14 @@ a:focus {
         display: flex;
         width: 10rem;
         flex-direction: column;
-        bottom: 0;
-        left: 0;
-        padding-left: .9375rem
+        bottom: 10px;
+        left: 5px;
+        top: 15px;
+        /* margin: .9375rem; */
+        background: var(--bs-pos-sidebar-bg);
+        /* border: 1px solid #003d80; */
+        border-radius: 10px;
+        /* padding-left: .9375rem */
     }
 }
 
@@ -26687,14 +26713,16 @@ a:focus {
     transition: all .2s linear;
     display: flex;
     flex-direction: column;
-    box-shadow: 0 .5rem 1rem rgba(0, 0, 123, .5)
+    /* box-shadow: 0 .5rem 1rem rgba(0, 0, 123, .5) */
 }
 
 .pos .product:hover {
     /*box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15)*/
-    box-shadow: 0 .5rem 1rem rgba(var(--bs-app-theme-rgb), .6);
+    box-shadow: 0 0 0 3.5px rgba(var(--bs-app-theme-rgb), .6);
 }
-
+/* .pos .pos-table-booking .pos-table-booking-container:hover {
+    box-shadow: 0 0 0 3px rgba(var(--bs-app-theme-rgb), .5)
+} */
 .pos .product .img {
     background-size: cover;
     background-repeat: no-repeat;
@@ -26985,7 +27013,8 @@ a:focus {
     color: var(--bs-pos-sidebar-header-color);
     position: relative;
     display: flex;
-    align-items: center
+    align-items: center;
+    border-radius: 8px;
 }
 
 @media (min-width: 992px) {
@@ -27260,13 +27289,14 @@ a:focus {
     background: var(--bs-component-bg);
     padding: .61875rem 1.640625rem;
     position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
+    top: 2px;
+    left: 5px;
+    right: 5px;
     z-index: 1020;
     height: 50px;
     display: flex;
-    align-items: center
+    align-items: center;
+    border-radius: 10px;
 }
 
 .pos .pos-header .logo, .pos .pos-header .nav, .pos .pos-header .time {
@@ -27363,7 +27393,7 @@ a:focus {
 }
 
 .pos .pos-table-booking .pos-table-booking-container:hover {
-    box-shadow: 0 0 0 5px rgba(56, 56, 56, .5)
+    box-shadow: 0 0 0 3px rgba(var(--bs-app-theme-rgb), .5)
 }
 
 .pos .pos-table-booking .pos-table-booking-container .pos-table-booking-header {
@@ -27472,7 +27502,13 @@ a:focus {
     position: relative;
     transition: all .1s linear;
     border-radius: var(--bs-border-radius-lg);
-    overflow: hidden
+    overflow: hidden;
+    border: 0.3px solid rgba(var(--bs-app-theme-rgb), 0.358);
+}
+
+.pos .pos-table-row .pos-table .pos-table-container:hover {
+    /*box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15)*/
+    box-shadow: 0 .5rem 1rem rgba(var(--bs-app-theme-rgb), .6);
 }
 
 .pos .pos-table-row .pos-table .pos-table-container .pos-table-status {
@@ -27722,7 +27758,7 @@ a:focus {
 }
 
 [data-bs-theme=dark], [data-bs-theme=dark] .pos {
-    --bs-pos-sidebar-bg: #383838;
+    --bs-pos-sidebar-bg: #222222;
     --bs-pos-sidebar-header-bg: #595959;
     --bs-pos-sidebar-header-color: #FFFFFF;
     --bs-pos-sidebar-header-back-btn-bg: #595959;
@@ -27730,10 +27766,10 @@ a:focus {
     --bs-pos-sidebar-header-nav-link-color: #7a7a7a;
     --bs-pos-sidebar-header-nav-link-active-bg: #383838;
     --bs-pos-sidebar-header-nav-link-active-color: #FFFFFF;
-    --bs-pos-sidebar-footer-bg: #595959;
+    --bs-pos-sidebar-footer-bg: #000000;
     --bs-pos-sidebar-footer-color: #FFFFFF;
     --bs-pos-sidebar-product-border-color: #7a7a7a;
-    --bs-pos-sidebar-product-confirmation-bg: rgba(56, 56, 56, 0.95)
+    --bs-pos-sidebar-product-confirmation-bg: rgba(25, 25, 25, 0.85)
 }
 
 .pos-mobile-sidebar-toggler {
@@ -27909,11 +27945,12 @@ a:focus {
 
 .profile-header {
     position: relative;
-    overflow: hidden
+    overflow: hidden;
+    border-radius: 8px;
 }
 
 .profile-header .profile-header-cover {
-    background-image: url(images/profile-cover.jpg);
+    background-image: url(/assets/img/images/covertop.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -27921,7 +27958,8 @@ a:focus {
     left: 0;
     right: 0;
     top: 0;
-    bottom: 0
+    bottom: 0;
+    border-radius: 8px;
 }
 
 .profile-header .profile-header-cover:before {
@@ -27957,7 +27995,7 @@ a:focus {
     z-index: 10;
     margin: -10px 0 -20px 0;
     padding: 3px;
-    background: var(--bs-component-bg);
+    /*background: var(--bs-component-bg);*/
     border-radius: 4px
 }
 

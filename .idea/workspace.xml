@@ -5,19 +5,117 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1755d064-f743-4447-9670-1f4457d019de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/images/placabase.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apple/ai_chat.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ai_chat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ai_image_generator.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ai_image_generator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/bootstrap_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/bootstrap_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/calendar.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/calendar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/chart-apex.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/chart-apex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/chart-d3.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/chart-d3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/chart-flot.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/chart-flot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/chart-js.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/chart-js.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apple/email_compose.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/email_compose.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apple/email_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/email_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apple/email_inbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/email_inbox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/email_newsletter.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/email_newsletter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/email_system.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/email_system.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/extra_404_error.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/extra_404_error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/extra_coming_soon.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/extra_coming_soon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/extra_cookie_acceptance_banner.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/extra_cookie_acceptance_banner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/extra_data_management.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/extra_data_management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/extra_invoice.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/extra_invoice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/extra_messenger_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/extra_messenger_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/extra_order_details.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/extra_order_details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/extra_orders.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/extra_orders.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/extra_pricing_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/extra_pricing_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/extra_product_details.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/extra_product_details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/extra_products.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/extra_products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/extra_profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/extra_profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/extra_scrum_board.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/extra_scrum_board.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/extra_search_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/extra_search_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/extra_settings_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/extra_settings_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/extra_timeline.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/extra_timeline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/form_dropzone.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/form_dropzone.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/form_editable.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/form_editable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/form_elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/form_elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/form_multiple_upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/form_multiple_upload.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/form_plugins.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/form_plugins.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/form_slider_switcher.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/form_slider_switcher.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/form_summernote.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/form_summernote.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/form_validation.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/form_validation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/form_wizards.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/form_wizards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/form_wysiwyg.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/form_wysiwyg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/gallery_v2.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/gallery_v2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/helper_css.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/helper_css.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apple/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/index_v2.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/index_v2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/index_v3.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/index_v3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/landing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/login_v3.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/login_v3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/map_google.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/map_google.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/map_vector.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/map_vector.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_blank.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_blank.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_boxed_layout_with_mixed_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_boxed_layout_with_mixed_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_full_height.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_full_height.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_with_boxed_layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_with_boxed_layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_with_fixed_footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_with_fixed_footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_with_footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_with_footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_with_hover_sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_with_hover_sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_with_ionicons.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_with_ionicons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_with_light_sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_with_light_sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_with_line_icons.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_with_line_icons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_with_mega_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_with_mega_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_with_minified_sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_with_minified_sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_with_mixed_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_with_mixed_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_with_right_sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_with_right_sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_with_search_sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_with_search_sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_with_top_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_with_top_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_with_transparent_sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_with_transparent_sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_with_two_sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_with_two_sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_with_wide_sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_with_wide_sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/page_without_sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/page_without_sidebar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apple/pos_counter_checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/pos_counter_checkout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apple/pos_customer_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/pos_customer_order.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apple/pos_kitchen_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/pos_kitchen_order.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apple/pos_menu_stock.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/pos_menu_stock.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apple/pos_table_booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/pos_table_booking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apple/register-v2.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/register-v2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/register_v3.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/register_v3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/table_basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/table_basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/table_manage.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/table_manage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/table_manage_buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/table_manage_buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/table_manage_colreorder.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/table_manage_colreorder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/table_manage_combine.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/table_manage_combine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/table_manage_fixed_columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/table_manage_fixed_columns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/table_manage_fixed_header.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/table_manage_fixed_header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/table_manage_keytable.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/table_manage_keytable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/table_manage_responsive.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/table_manage_responsive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/table_manage_rowreorder.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/table_manage_rowreorder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/table_manage_scroller.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/table_manage_scroller.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/table_manage_select.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/table_manage_select.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_general.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_general.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_icon_bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_icon_bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_icon_duotone.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_icon_duotone.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_icon_fontawesome.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_icon_fontawesome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_icon_ionicons.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_icon_ionicons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_icon_simple_line_icons.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_icon_simple_line_icons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_language_bar_icon.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_language_bar_icon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_media_object.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_media_object.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_modal_notification.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_modal_notification.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_offcanvas_toasts.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_offcanvas_toasts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_social_buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_social_buttons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_tabs_accordions.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_tabs_accordions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_tour.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_tour.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_typography.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_unlimited_tabs.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_unlimited_tabs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple/ui_widget_boxes.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/ui_widget_boxes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apple/widget.html" beforeDir="false" afterPath="$PROJECT_DIR$/apple/widget.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/apple/app.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/apple/app.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/apple/images/bg-login-dark-mode.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/images/bg-login-dark-mode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/apple/images/bg-login.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/images/bg-login.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +128,27 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
+  <component name="GitToolBoxStore">
+    <option name="largeFiles">
+      <LargeFiles>
+        <option name="unlockedFilePaths">
+          <set>
+            <option value="$PROJECT_DIR$/assets/css/apple/app.min.css" />
+            <option value="$PROJECT_DIR$/assets/css/vendor.min.css" />
+          </set>
+        </option>
+      </LargeFiles>
+    </option>
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/tntsoftwareec/coursera.git&quot;,
     &quot;accountId&quot;: &quot;d0c8c25f-0aea-4b8d-a698-a9bd5f110259&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/assets/css/apple/app.min.css" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -44,41 +157,106 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaScript Debug.ai_chat.html.executor": "Run",
-    "JavaScript Debug.helper_css.html.executor": "Run",
-    "JavaScript Debug.index-2.html.executor": "Run",
-    "JavaScript Debug.index.html.executor": "Run",
-    "JavaScript Debug.index_v2.html.executor": "Run",
-    "JavaScript Debug.landing.html.executor": "Run",
-    "JavaScript Debug.login.html.executor": "Run",
-    "JavaScript Debug.login_v2.html.executor": "Run",
-    "JavaScript Debug.pos_counter_checkout.html.executor": "Run",
-    "JavaScript Debug.pos_customer_order.html.executor": "Run",
-    "JavaScript Debug.pos_kitchen_order.html.executor": "Run",
-    "JavaScript Debug.register-v2.html.executor": "Run",
-    "JavaScript Debug.ui_icon_fontawesome.html.executor": "Run",
-    "JavaScript Debug.widget.html.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/tntcyber/WebstormProjects/adminapple",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.ai_chat.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.ai_image_generator.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.bootstrap_5.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.calendar.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.chart-d3.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.chart-flot.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.chart-js.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.email_compose.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.email_newsletter.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.email_system.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extra_404_error.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extra_coming_soon.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extra_cookie_acceptance_banner.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extra_data_management.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extra_file_manager.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extra_invoice.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extra_messenger_page.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extra_order_details.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extra_orders.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extra_pricing_page.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extra_product_details.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extra_products.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extra_profile.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extra_scrum_board.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extra_search_results.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extra_settings_page.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.extra_timeline.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.form_dropzone.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.form_editable.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.form_elements.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.form_multiple_upload.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.form_plugins.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.form_slider_switcher.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.form_summernote.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.form_validation.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.form_wizards.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.form_wysiwyg.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.gallery.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.gallery_v2.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.helper_css.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index-2.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index_v2.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index_v3.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.landing.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.login.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.login_v2.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.login_v3.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.map_google.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.map_vector.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_blank.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_boxed_layout_with_mixed_menu.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_full_height.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_with_boxed_layout.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_with_fixed_footer.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_with_footer.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_with_hover_sidebar.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_with_ionicons.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_with_light_sidebar.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_with_line_icons.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_with_mega_menu.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_with_minified_sidebar.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_with_mixed_menu.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_with_right_sidebar.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_with_search_sidebar.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_with_top_menu.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_with_transparent_sidebar.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_with_two_sidebar.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_with_wide_sidebar.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.page_without_sidebar.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.pos_counter_checkout.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.pos_customer_order.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.pos_kitchen_order.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.register-v2.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.ui_icon_fontawesome.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.widget.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/tntr/WebstormProjects/coursera/assets/img/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/images" />
       <recent name="$PROJECT_DIR$/apple" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/images" />
       <recent name="$PROJECT_DIR$/assets/data/ui-icon-bootstrap" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/css" />
@@ -127,6 +305,19 @@
       <workItem from="1755994024616" duration="161000" />
       <workItem from="1755994197263" duration="314000" />
       <workItem from="1756503096772" duration="6949000" />
+      <workItem from="1756518354031" duration="2228000" />
+      <workItem from="1756683808302" duration="3634000" />
+      <workItem from="1756933483694" duration="16083000" />
+      <workItem from="1757025263735" duration="8769000" />
+      <workItem from="1757121305260" duration="1416000" />
+      <workItem from="1757815879996" duration="3740000" />
+      <workItem from="1757896609164" duration="2405000" />
+      <workItem from="1757978582029" duration="7504000" />
+      <workItem from="1758157411337" duration="4727000" />
+      <workItem from="1758225505756" duration="395000" />
+      <workItem from="1758235103969" duration="7194000" />
+      <workItem from="1758846240244" duration="17000" />
+      <workItem from="1758941487021" duration="121000" />
     </task>
     <servers />
   </component>
